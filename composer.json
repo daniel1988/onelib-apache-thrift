@@ -3,7 +3,7 @@
   "description":       "Apache Thrift",
   "keywords":          ["thrift", "apache"],
   "homepage":          "https://github.com/daniel1988/onelib-apache-thrift",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license":           "Apache-2.0",
   "require":           {
     "php": ">=5.0.0"
